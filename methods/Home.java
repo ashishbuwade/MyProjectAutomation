@@ -6,4 +6,8 @@ public class Home{
         System.out.println("Hello World");
     }
 
+    public void test(){
+        System.out.println("Test Method");
+    }
+
 }
