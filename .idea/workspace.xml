@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aae3fb3-58ab-492f-babb-f9f1eec2e5ee" name="Changes" comment="added more codes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/methods/Home.java" afterDir="false" />
-    </list>
+    <list default="true" id="4aae3fb3-58ab-492f-babb-f9f1eec2e5ee" name="Changes" comment="added more codes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
     "Application.Home.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "ab",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ashis/MyProjectAutomation",
     "project.structure.last.edited": "Project",

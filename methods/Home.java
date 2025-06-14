@@ -15,7 +15,7 @@ public class Home{
     }
 
     public void run(){
-        System.out.println("I am running");
+        System.out.println("I ran");
     }
 
 
