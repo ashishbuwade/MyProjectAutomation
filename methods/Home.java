@@ -14,6 +14,10 @@ public class Home{
         System.out.println("Tell me your methods");
     }
 
+    public void run(){
+        System.out.println("I am running");
+    }
+
 
 
 }
