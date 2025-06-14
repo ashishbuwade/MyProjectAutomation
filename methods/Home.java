@@ -10,6 +10,7 @@ public class Home{
 
     public void test(){
         System.out.println("Test Method");
+        System.out.println("Hi");
     }
 
 
