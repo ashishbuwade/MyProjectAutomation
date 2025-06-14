@@ -10,7 +10,12 @@ public class Home{
 
     public void test(){
         System.out.println("Test Method");
+        System.out.println("Hi");
         System.out.println("Tell me your methods");
+    }
+
+    public void run(){
+        System.out.println("I ran");
     }
 
 
